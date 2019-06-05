@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: ac2323d6cfbce694aac36d6ccf07ba5b
+timeCreated: 1522781005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bed_outer
+    100004: Bet_sheet3
+    100006: Box051
+    100008: Box051_MeshPart0
+    100010: Box051_MeshPart1
+    100012: Box051_MeshPart2
+    100014: Line1440
+    100016: Line1464
+    100018: Object019
+    100020: Object020
+    100022: Plane386
+    100024: Plane386_MeshPart0
+    100026: Plane386_MeshPart1
+    100028: Plane386_MeshPart2
+    100030: Plane386_MeshPart3
+    100032: Rectangle1506
+    100034: Rectangle1507
+    100036: Rectangle1508
+    100038: Rectangle1509
+    400000: //RootNode
+    400002: bed_outer
+    400004: Bet_sheet3
+    400006: Box051
+    400008: Box051_MeshPart0
+    400010: Box051_MeshPart1
+    400012: Box051_MeshPart2
+    400014: Line1440
+    400016: Line1464
+    400018: Object019
+    400020: Object020
+    400022: Plane386
+    400024: Plane386_MeshPart0
+    400026: Plane386_MeshPart1
+    400028: Plane386_MeshPart2
+    400030: Plane386_MeshPart3
+    400032: Rectangle1506
+    400034: Rectangle1507
+    400036: Rectangle1508
+    400038: Rectangle1509
+    2300000: bed_outer
+    2300002: Bet_sheet3
+    2300004: Box051_MeshPart0
+    2300006: Box051_MeshPart1
+    2300008: Box051_MeshPart2
+    2300010: Line1440
+    2300012: Line1464
+    2300014: Object019
+    2300016: Object020
+    2300018: Plane386_MeshPart0
+    2300020: Plane386_MeshPart1
+    2300022: Plane386_MeshPart2
+    2300024: Plane386_MeshPart3
+    2300026: Rectangle1506
+    2300028: Rectangle1507
+    2300030: Rectangle1508
+    2300032: Rectangle1509
+    3300000: bed_outer
+    3300002: Bet_sheet3
+    3300004: Box051_MeshPart0
+    3300006: Box051_MeshPart1
+    3300008: Box051_MeshPart2
+    3300010: Line1440
+    3300012: Line1464
+    3300014: Object019
+    3300016: Object020
+    3300018: Plane386_MeshPart0
+    3300020: Plane386_MeshPart1
+    3300022: Plane386_MeshPart2
+    3300024: Plane386_MeshPart3
+    3300026: Rectangle1506
+    3300028: Rectangle1507
+    3300030: Rectangle1508
+    3300032: Rectangle1509
+    4300000: bed_outer
+    4300002: Bet_sheet3
+    4300004: Box051_MeshPart0
+    4300006: Box051_MeshPart1
+    4300008: Box051_MeshPart2
+    4300010: Line1440
+    4300012: Line1464
+    4300014: Object019
+    4300016: Object020
+    4300018: Plane386_MeshPart0
+    4300020: Plane386_MeshPart1
+    4300022: Plane386_MeshPart2
+    4300024: Plane386_MeshPart3
+    4300026: Rectangle1506
+    4300028: Rectangle1507
+    4300030: Rectangle1508
+    4300032: Rectangle1509
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

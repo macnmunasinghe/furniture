@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Instantiation.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Instantiation.cs" Line="147" Column="4" />
+      <File FileName="Assets\Scripts\testcord.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Scripts\LeanTouch.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanTranslate.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanTouchEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GyroRead.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlaneAdjust.cs" Line="17" Column="48" />
+      <File FileName="Assets\LeanTouch\Scripts\LeanGesture.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Touch_Select.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
